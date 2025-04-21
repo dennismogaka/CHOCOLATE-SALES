@@ -2,14 +2,14 @@
 This repository contains a comprehensive analysis of chocolate sales data, designed to uncover key trends, performance metrics, and business insights. The report includes data cleaning, visualizations, and insights to support strategic decision-making.
 ##  Table of Contents
 
-- [ Project Overview](#-project-overview)
-- [ Data Description](#️-data-description)
-- [ Sample Data](#-sample-data)
-- [ Project Objectives](#-project-objectives)
-- [ Key Questions](#-key-questions)
-- [ Key Findings](#-key-findings)
-- [ Recommendations](#-recommendations)
--! [ Conclusion](#-conclusion)
+- [ Project Overview](#project-overview)
+- [ Data Description](#️data-description)
+- [ Sample Data](#sample-data)
+- [ Project Objectives](#project-objectives)
+- [ Key Questions](#key-questions)
+- [ Key Findings](#key-findings)
+- [ Recommendations](#recommendations)
+-! [ Conclusion](#conclusion)
 
 ## PROJECT OVERVIEW
 This project analyses chocolate sales dataset to uncover insights related to sales performance, regional trends, product popularity and shipment volumes. The analysis is conducted and aims at providing actionable recommendations to optimize sales and distribution strategies.
@@ -30,7 +30,7 @@ The key columns in the dataset used include:
 ## SAMPLE DATA
 ![image](https://github.com/user-attachments/assets/3f7131f2-d28a-434f-ba47-d2de2ec5d21c)
 ## DASHBOARD
-https://github.com/dennismogaka/CHOCOLATE-SALES/blob/main/CHOCOLATE%20SALES%20DASHBOARD25.xlsx
+
 
 ## PROJECT OBJECTIVES
 1.	Analyze total sales by sales person and country
