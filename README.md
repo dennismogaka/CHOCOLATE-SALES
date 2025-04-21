@@ -45,33 +45,33 @@ The key columns in the dataset used include:
 6.	How is shipment volume related to revenue generated?
 ## KEY INSIGHTS & FINDNGS
 1.	TOP SALES PERSON
-•	Ches Bonell and Oby Sorrel recorded the highest sales by revenue.
-•	Sales performance varied significantly by region. Australia, U.S.A and India topping with sales of $960K, $949K and $914K respectively.
+### •	Ches Bonell and Oby Sorrel recorded the highest sales by revenue.
+### •	Sales performance varied significantly by region. Australia, U.S.A and India topping with sales of $960K, $949K and $914K respectively.
 2.	COUNTRY TRENDS
-•	Australia and USA had the highest sales volume.
-•	Emerging markets like New Zealand showed strong growth potential.
-•	Canada, UK and Australia had highest shipments.
+### •	Australia and USA had the highest sales volume.
+### •	Emerging markets like New Zealand showed strong growth potential.
+### •	Canada, UK and Australia had highest shipments.
 3.	PRODUCT INSIGHTS
-•	50% Dark Bites chocolate were the top selling products.
-•	Almond Choco and Choco-coated Almonds were the low-performing products.
+### •	50% Dark Bites chocolate were the top selling products.
+### •	Almond Choco and Choco-coated Almonds were the low-performing products.
 4.	SEASONALITY
-•	Peak sales were recorded in Q2, likely due to April Holiday.
-•	A noticeable drop in sales was recorded in Q3.
+### •	Peak sales were recorded in Q2, likely due to April Holiday.
+### •	A noticeable drop in sales was recorded in Q3.
 5.	SHIPMENT ANALYSIS
-•	Higher boxes shipped didn’t always correlate with high revenue.
+### •	Higher boxes shipped didn’t always correlate with high revenue.
 
 
 ## RECOMMENDATIONS
-•	SALES STRATEGY
+### 1.SALES STRATEGY
 •	Up-skill or incentivize underperforming sales persons.
 •	Focus marketing on Q3 to leverage seasonal trends.
-•	PRODUCT STRATEGY
+###	2.PRODUCT STRATEGY
 •	Increase inventory and promotions for high performing products.
 •	Experiment with bundling premium chocolates during peak months.
-•	GEOGRAPHIC EXPANSION
+### 3.GEOGRAPHIC EXPANSION
 •	Invest in distribution networks in fast-growing markets.
 •	Tailor products to local tastes based on regional preferences.
-•	OPERATIONAL IMPROVEMENTS
+#### 4.OPERATIONAL IMPROVEMENTS
 •	Optimize shipping logistics to reduce costs for high-volume regions.
 •	Use predictive models to forecast demand during holiday seasons.
 
