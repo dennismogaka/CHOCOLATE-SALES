@@ -41,7 +41,7 @@ https://github.com/dennismogaka/CHOCOLATE-SALES/blob/main/chocolate%20sales%20da
 6.	Provide data-driven recommendations for boosting sales.
 ## KEY QUESTIONS
 1.	What are the total sales per sales person?
-   ![salesperson](https://github.com/user-attachments/assets/f06f9624-3d44-448b-8c9b-c1e3f187546c)
+ ###  ![salesperson](https://github.com/user-attachments/assets/f06f9624-3d44-448b-8c9b-c1e3f187546c)
 
 2.	What are the total sales per country?
    ![countries](https://github.com/user-attachments/assets/602afc3e-898d-494b-815c-2def9e2033f4)
