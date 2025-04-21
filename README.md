@@ -47,9 +47,11 @@ https://github.com/dennismogaka/CHOCOLATE-SALES/blob/main/chocolate%20sales%20da
  ###  ![countries](https://github.com/user-attachments/assets/602afc3e-898d-494b-815c-2def9e2033f4)
 
 3.	Identify the best performing chocolate brand by revenue.
-  
+ ### ![choco brand by revenue](https://github.com/user-attachments/assets/102120b0-c3d4-4230-91e2-2348eaf88687)
+
 4.	Identify the best performing chocolate brand by shipment volume.
-   
+ ### ![chocolate brand by shipment volume](https://github.com/user-attachments/assets/779d0047-a36b-49b0-a144-16e06a59555a)
+
 5.	Explore the chocolate sales trend overtime.
  ###  ![boxes shipped](https://github.com/user-attachments/assets/7590723a-21ed-4bd6-a38f-31044bc7b9e1)
 
