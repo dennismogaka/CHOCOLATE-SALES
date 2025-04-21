@@ -30,6 +30,8 @@ The key columns in the dataset used include:
 ## SAMPLE DATA
 ![image](https://github.com/user-attachments/assets/3f7131f2-d28a-434f-ba47-d2de2ec5d21c)
 ## DASHBOARD
+[ Download the Power BI Report (.pbix)](https://your-download-link-here.com)
+
 ## PROJECT OBJECTIVES
 1.	Analyze total sales by sales person and country
 2.	Analyze average sales by sales person and country.
