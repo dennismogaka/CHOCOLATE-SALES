@@ -55,7 +55,9 @@ https://github.com/dennismogaka/CHOCOLATE-SALES/blob/main/chocolate%20sales%20da
 5.	Explore the chocolate sales trend overtime.
  ###  ![boxes shipped](https://github.com/user-attachments/assets/7590723a-21ed-4bd6-a38f-31044bc7b9e1)
 
-7.	How is shipment volume related to revenue generated?
+6.	How is shipment volume related to revenue generated?
+ ### ![shipment vs revenue](https://github.com/user-attachments/assets/c6f55b22-ec5f-488c-b985-99e965e9d4c0)
+ 
 ## KEY INSIGHTS & FINDNGS
 1.	TOP SALES PERSON
 ### •	Ches Bonell and Oby Sorrel recorded the highest sales by revenue.
