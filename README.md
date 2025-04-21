@@ -3,11 +3,11 @@ This repository contains a comprehensive analysis of chocolate sales data, desig
 ##  Table of Contents
 
 - [ Project Overview](#project-overview)
-- [ Data Description](#️data-description)
+- [ Dataset Description](#️dataset-description)
 - [ Sample Data](#sample-data)
 - [ Project Objectives](#project-objectives)
 - [ Key Questions](#key-questions)
-- [ Key Findings](#key-findings)
+- [ Key Insights & Findings](#key-insights-&-findings)
 - [ Recommendations](#recommendations)
 - [ Conclusion](#conclusion)
 
