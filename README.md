@@ -9,7 +9,7 @@ This repository contains a comprehensive analysis of chocolate sales data, desig
 - [ Key Questions](#-key-questions)
 - [ Key Findings](#-key-findings)
 - [ Recommendations](#-recommendations)
-- [ Conclusion](#-conclusion)
+-! [ Conclusion](#-conclusion)
 
 ## PROJECT OVERVIEW
 This project analyses chocolate sales dataset to uncover insights related to sales performance, regional trends, product popularity and shipment volumes. The analysis is conducted and aims at providing actionable recommendations to optimize sales and distribution strategies.
@@ -30,7 +30,7 @@ The key columns in the dataset used include:
 ## SAMPLE DATA
 ![image](https://github.com/user-attachments/assets/3f7131f2-d28a-434f-ba47-d2de2ec5d21c)
 ## DASHBOARD
-[ Download the Power BI Report (.pbix)](https://your-download-link-here.com)
+
 
 ## PROJECT OBJECTIVES
 1.	Analyze total sales by sales person and country
@@ -62,8 +62,7 @@ The key columns in the dataset used include:
 ### •	A noticeable drop in sales was recorded in Q3.
 5.	SHIPMENT ANALYSIS
 ### •	Higher boxes shipped didn’t always correlate with high revenue.
-
-
+![CHOCOLATE SALES DASHBOARD25](https://github.com/user-attachments/assets/778b079a-5074-4829-9cbd-4f0b3e7c96fb)
 ## RECOMMENDATIONS
 ### 1.SALES STRATEGY
 #### •	Up-skill or incentivize underperforming sales persons.
