@@ -10,10 +10,10 @@ This repository contains a comprehensive analysis of chocolate sales data, desig
 - [ Recommendations](#-recommendations)
 - [ Conclusion](#-conclusion)
 
-##PROJECT OVERVIEW
+## PROJECT OVERVIEW
 This project analyses chocolate sales dataset to uncover insights related to sales performance, regional trends, product popularity and shipment volumes. The analysis is conducted and aims at providing actionable recommendations to optimize sales and distribution strategies.
 ##DATASET DESCRIPTION
-SOURCE: [🍫 Chocolate Sales Dataset on Kaggle](https://www.kaggle.com/datasets/atharvasoundankar/chocolate-sales)
+DATA SOURCE: [🍫 Chocolate Sales Dataset on Kaggle](https://www.kaggle.com/datasets/atharvasoundankar/chocolate-sales)
 ROWS: 1094
 COLUMNS: 6
 The key columns in the dataset used include:
@@ -24,24 +24,25 @@ Product 	Type or name of chocolate product sold
 Date 	Date of the transaction
 Amount 	Value of the sale in USD
 Boxes shipped	Number of boxes shipped for the sale
-##SAMPLE DATA
- 
+## SAMPLE DATA
 
-##PROJECT OBJECTIVES
+ 
+## DASHBOARD
+## PROJECT OBJECTIVES
 1.	Analyze total sales by sales person and country
 2.	Analyze average sales by sales person and country.
 3.	Identify best-performing product by revenue and shipment volume.
 4.	Explore sales trend
 5.	Evaluate shipment efficiency and correlation with revenue.
 6.	Provide data-driven recommendations for boosting sales.
-##KEY QUESTIONS
+## KEY QUESTIONS
 1.	What are the total sales per sales person?
 2.	What are the total sales per country?
 3.	Identify the best performing chocolate brand by revenue.
 4.	Identify the best performing chocolate brand by shipment volume.
 5.	Explore the chocolate sales trend overtime.
 6.	How is shipment volume related to revenue generated?
-##KEY INSIGHTS & FINDNGS
+## KEY INSIGHTS & FINDNGS
 1.	TOP SALES PERSON
 •	Ches Bonell and Oby Sorrel recorded the highest sales by revenue.
 •	Sales performance varied significantly by region. Australia, U.S.A and India topping with sales of $960K, $949K and $914K respectively.
@@ -59,7 +60,7 @@ Boxes shipped	Number of boxes shipped for the sale
 •	Higher boxes shipped didn’t always correlate with high revenue.
 
 
-##RECOMMENDATIONS
+## RECOMMENDATIONS
 •	SALES STRATEGY
 •	Up-skill or incentivize underperforming sales persons.
 •	Focus marketing on Q3 to leverage seasonal trends.
@@ -73,7 +74,7 @@ Boxes shipped	Number of boxes shipped for the sale
 •	Optimize shipping logistics to reduce costs for high-volume regions.
 •	Use predictive models to forecast demand during holiday seasons.
 
-##CONCLUSION
+## CONCLUSION
 This analysis provides a comprehensive overview of chocolate sales data, highlighting patterns in sales performance and regional trends.
 By acting on the recommendations, the company can optimize its operations, increase revenue and expand its market presence.
 
