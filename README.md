@@ -3,7 +3,7 @@ This repository contains a comprehensive analysis of chocolate sales data, desig
 ##  Table of Contents
 
 - [ Project Overview](#-project-overview)
-- [🗂 Data Description](#️-data-description)
+- [ Data Description](#️-data-description)
 - [ Sample Data](#-sample-data)
 - [ Project Objectives](#-project-objectives)
 - [ Key Questions](#-key-questions)
@@ -64,17 +64,17 @@ The key columns in the dataset used include:
 
 ## RECOMMENDATIONS
 ### 1.SALES STRATEGY
-•	Up-skill or incentivize underperforming sales persons.
-•	Focus marketing on Q3 to leverage seasonal trends.
+#### •	Up-skill or incentivize underperforming sales persons.
+#### •	Focus marketing on Q3 to leverage seasonal trends.
 ###	2.PRODUCT STRATEGY
-•	Increase inventory and promotions for high performing products.
-•	Experiment with bundling premium chocolates during peak months.
+#### •	Increase inventory and promotions for high performing products.
+#### •	Experiment with bundling premium chocolates during peak months.
 ### 3.GEOGRAPHIC EXPANSION
-•	Invest in distribution networks in fast-growing markets.
-•	Tailor products to local tastes based on regional preferences.
-#### 4.OPERATIONAL IMPROVEMENTS
-•	Optimize shipping logistics to reduce costs for high-volume regions.
-•	Use predictive models to forecast demand during holiday seasons.
+#### •	Invest in distribution networks in fast-growing markets.
+#### •	Tailor products to local tastes based on regional preferences.
+### 4.OPERATIONAL IMPROVEMENTS
+#### •	Optimize shipping logistics to reduce costs for high-volume regions.
+#### •	Use predictive models to forecast demand during holiday seasons.
 
 ## CONCLUSION
 This analysis provides a comprehensive overview of chocolate sales data, highlighting patterns in sales performance and regional trends.
