@@ -13,7 +13,7 @@ This repository contains a comprehensive analysis of chocolate sales data, desig
 ## PROJECT OVERVIEW
 This project analyses chocolate sales dataset to uncover insights related to sales performance, regional trends, product popularity and shipment volumes. The analysis is conducted and aims at providing actionable recommendations to optimize sales and distribution strategies.
 ##DATASET DESCRIPTION
-### DATA SOURCE: [🍫 Chocolate Sales Dataset on Kaggle](https://www.kaggle.com/datasets/atharvasoundankar/chocolate-sales)
+### DATA SOURCE: [ Chocolate Sales Dataset ](https://www.kaggle.com/datasets/atharvasoundankar/chocolate-sales)
 ### ROWS: 1094
 ### COLUMNS: 6
 The key columns in the dataset used include:
@@ -27,8 +27,7 @@ The key columns in the dataset used include:
 | Boxes shipped   | Number of boxes shipped for the sale             |
 
 ## SAMPLE DATA
-
- 
+![image](https://github.com/user-attachments/assets/3f7131f2-d28a-434f-ba47-d2de2ec5d21c)
 ## DASHBOARD
 ## PROJECT OBJECTIVES
 1.	Analyze total sales by sales person and country
