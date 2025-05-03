@@ -30,7 +30,7 @@ The key columns in the dataset used include:
 ## SAMPLE DATA
 ![image](https://github.com/user-attachments/assets/3f7131f2-d28a-434f-ba47-d2de2ec5d21c)
 ## DASHBOARD
-![DASHBOARD](https://github.com/dennismogaka/CHOCOLATE-SALES/blob/main/chocolate%20sales%20dashboard.pbix)
+[DASHBOARD](https://github.com/dennismogaka/CHOCOLATE-SALES/blob/main/chocolate%20sales%20dashboard.pbix)
 
 ## PROJECT OBJECTIVES
 1.	Analyze total sales by sales person and country
